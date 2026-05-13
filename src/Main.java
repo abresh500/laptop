@@ -13,7 +13,7 @@ public class Main {
         myLaptop.login(scanner);
 
         System.out.println("\nPress Enter to power off...");
-        //well idk why i even used \n it feels right and it worked there
+        //well idk why i even used \n it
         scanner.nextLine();
 
         myLaptop.powerOff();
