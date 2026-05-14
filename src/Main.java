@@ -5,7 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         GamingLaptop myLaptop = new GamingLaptop("MSI", "GF Thin", 16, "GTX 1650");
-//i fuckin love my pc
+
         myLaptop.powerOn();
         myLaptop.showSpecs();
 
